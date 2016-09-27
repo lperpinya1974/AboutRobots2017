@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AboutRobots2017</string>
+    <string name="txtbtninicial">No tocar</string>
+    <string name="text_inicial">Bienvenidos humanos. Los robots os saludan. Esto es un pequeño test para vosotros</string>
+</resources>
