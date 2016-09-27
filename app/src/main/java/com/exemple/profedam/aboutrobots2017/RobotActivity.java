@@ -38,6 +38,13 @@ public class RobotActivity extends AppCompatActivity implements View.OnClickList
             textView.setText ("Parece ser que los humanos no son muy inteligentes");
         }
 
+        if (numeroVeces==2)
+        {
+            btnNoTocar.setVisibility(View.INVISIBLE);
+        }
+
+
+
 
 
 
