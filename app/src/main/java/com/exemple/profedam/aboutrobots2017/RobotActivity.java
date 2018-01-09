@@ -36,6 +36,8 @@ public class RobotActivity extends AppCompatActivity implements View.OnClickList
         {
             btnNoTocar.setText ("¡Que no me toques!!!");
             textView.setText ("Parece ser que los humanos no son muy inteligentes");
+
+            /* TODO Cal treure els strings al fitxer de strings */
         }
 
         if (numeroVeces==2)
